@@ -15,3 +15,13 @@ I
 -Module 1/Week 1/trigonometry_approximation.py,e\d\ed1ab309e8ca4c3fe3b08343ad6a44900d07fdce
 8
 test.txt,4\b\4b6fcb2d521ef0fd442a5301e7932d16cc9f375a
+Q
+!Module 1/Week 2/sliding_window.py,d\9\d9cdbab4b8d056e6e76636510f0746559da6e311
+R
+"Module 1/Week 2/character_count.py,5\1\51022099903e61573b5f26ee575b786fc30d5528
+K
+Module 1/Week 2/P1_data.txt,4\e\4e16d55d33f968a780db3dc4fe678602c0f811b1
+M
+Module 1/Week 2/word_count.py,a\0\a0432453c84a83ccb71c525442617bf8e4ca0c2f
+W
+'Module 1/Week 2/levenshtein_distance.py,e\5\e5142c7a62fc557531d5d1d1d27dd89e64d0abe2
