@@ -9,7 +9,6 @@ def word_count(filename):
             else:
                 ans[word] += 1
     f.close()
-    ans = sorted(ans.items(), key=lambda x: x[0], reverse=False)
     return ans
 
 

@@ -5,7 +5,6 @@ def count_chars(inp):
             ans[c] += 1
         else:
             ans[c] = 1
-    ans = sorted(ans.items(), key=lambda x: x[1], reverse=False)
     return ans
 
 
