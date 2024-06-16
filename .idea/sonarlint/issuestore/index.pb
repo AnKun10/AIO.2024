@@ -13,8 +13,6 @@ I
 Module 1/Week 1/MD_nRE.py,5\3\53fe8c0a5e209ac4193e14441cd62d2b22a85017
 ]
 -Module 1/Week 1/trigonometry_approximation.py,e\d\ed1ab309e8ca4c3fe3b08343ad6a44900d07fdce
-8
-test.txt,4\b\4b6fcb2d521ef0fd442a5301e7932d16cc9f375a
 Q
 !Module 1/Week 2/sliding_window.py,d\9\d9cdbab4b8d056e6e76636510f0746559da6e311
 R
@@ -25,5 +23,3 @@ M
 Module 1/Week 2/word_count.py,a\0\a0432453c84a83ccb71c525442617bf8e4ca0c2f
 W
 'Module 1/Week 2/levenshtein_distance.py,e\5\e5142c7a62fc557531d5d1d1d27dd89e64d0abe2
-=
-Module 1/test,f\b\fbe14002ec6e0137f4622cfc54c69f22dc38a303
