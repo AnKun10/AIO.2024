@@ -1,13 +1,13 @@
 class Queue:
     def __init__(self, capacity):
-        self.capacity = capacity
+        self.__capacity = capacity
         self.items = []
 
     def is_empty(self):
         return len(self.items) == 0
 
     def is_full(self):
-        return len(self.items) >= self.capacity
+        return len(self.items) >= self.__capacity
 
     def enqueue(self, val):
         if self.is_full():
