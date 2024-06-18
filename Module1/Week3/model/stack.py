@@ -1,6 +1,6 @@
 class Stack:
     def __init__(self, capacity):
-        self.capacity = capacity
+        self.__capacity = capacity
         self.items = []
 
     def is_empty(self):
@@ -9,7 +9,7 @@ class Stack:
         return True
 
     def is_full(self):
-        return len(self.items) >= self.capacity
+        return len(self.items) >= self.__capacity
 
     def pop(self):
         if self.is_empty():
@@ -24,4 +24,4 @@ class Stack:
     def top(self):
         if self.is_empty():
             raise ValueError('Stack is empty')
-        return self.items[0]
+        return self.items[-1]
