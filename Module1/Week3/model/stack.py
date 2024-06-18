@@ -24,4 +24,4 @@ class Stack:
     def top(self):
         if self.is_empty():
             raise ValueError('Stack is empty')
-        return self.items[0]
+        return self.items[-1]
