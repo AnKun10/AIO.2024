@@ -7,7 +7,7 @@ def compute_vector_length(vector):
 
 
 def compute_dot_product(vector1, vector2):
-    return vector1 * vector2
+    return vector1 @ vector2
 
 
 def matrix_multi_vector(matrix, vector):
