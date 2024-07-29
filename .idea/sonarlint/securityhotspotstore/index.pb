@@ -87,5 +87,13 @@ X
 -Module2/Week2/model/background_subtraction.py,9\5\95d2f302dcc14e7912e03e3af5a3aed1229d6189
 a
 1Module2/Week2/test/background_subtraction_test.py,a\3\a3fc92e03bbed32b74d2a236ee0036421ccaef4c
-J
-Module2/Week2/test/test.py,4\2\428e98a5ae068c9c1fc5d25d7445401eef9a99bf
+[
++Module2/Week3/model/create_train_dataset.py,e\b\ebbec35166cfc06a8a8c66a3969b5a8344987e2f
+Z
+*Module2/Week3/model/compute_probability.py,1\7\175119a9ed9c8f619541ee34f122c4d29afd7c4b
+k
+;Module2/Week3/test/play_tennis_classifier_implementation.py,5\6\56da5087658ef42c4cea803ffee407499504a63b
+[
++Module2/Week3/model/get_index_from_value.py,0\5\0516ec8f6ba850c2daaac4ac93642fc2a24dbbf7
+R
+"Module2/Week3/model/naive_bayes.py,6\2\62c8da4911b9da8ef166f14bd835b2f60ee54e61
