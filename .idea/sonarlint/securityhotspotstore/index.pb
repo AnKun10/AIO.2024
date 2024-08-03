@@ -95,5 +95,15 @@ k
 ;Module2/Week3/test/play_tennis_classifier_implementation.py,5\6\56da5087658ef42c4cea803ffee407499504a63b
 [
 +Module2/Week3/model/get_index_from_value.py,0\5\0516ec8f6ba850c2daaac4ac93642fc2a24dbbf7
-R
-"Module2/Week3/model/naive_bayes.py,6\2\62c8da4911b9da8ef166f14bd835b2f60ee54e61
+Q
+!Module2/Week4/model/statistics.py,e\9\e93c2632afdb7c63f0a46564b84a12b7939636c2
+U
+%Module2/Week4/test/statistics_test.py,b\4\b46fb070dcadb564926eceaeddc55dbf8b2711d8
+U
+%Module2/Week4/dataset/advertising.csv,8\7\879e8aa1e07143a8322ae0fcc0d59e15ece7cd68
+[
++Module2/Week4/dataset/vi_text_retrieval.csv,e\6\e6a2d673e085883eace43488455e5c293289785a
+Y
+)Module2/Week4/test/text_retrieval_test.py,5\3\53a7eb7937865ca0077af3e32525da3f185e9c96
+U
+%Module2/Week4/model/text_retrieval.py,c\c\ccbf2af8fd449db95d620ee240c716980ad26678
