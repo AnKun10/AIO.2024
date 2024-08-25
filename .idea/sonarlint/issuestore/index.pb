@@ -107,3 +107,9 @@ Y
 )Module2/Week4/test/text_retrieval_test.py,5\3\53a7eb7937865ca0077af3e32525da3f185e9c96
 U
 %Module2/Week4/model/text_retrieval.py,c\c\ccbf2af8fd449db95d620ee240c716980ad26678
+Q
+!Module3/Week1/model/IMDB_Movie.py,2\7\27c4a6fec537bc4fed4a545fa307ac718b8acfea
+U
+%Module3/Week1/test/IMDB_Movie_test.py,6\2\623eefeedcf0e663446f76e4249911439cb1bd49
+V
+&Module3/Week1/test/Time_Series_test.py,d\5\d57a5a2a8721383c1c08812b2fb38b344372b9ec
