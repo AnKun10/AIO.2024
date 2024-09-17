@@ -113,3 +113,15 @@ U
 %Module3/Week1/test/IMDB_Movie_test.py,6\2\623eefeedcf0e663446f76e4249911439cb1bd49
 V
 &Module3/Week1/test/Time_Series_test.py,d\5\d57a5a2a8721383c1c08812b2fb38b344372b9ec
+Q
+!Module3/Week4/model/processing.py,0\a\0a7b43b4016786092ee99cdc4144b3829a0ece06
+T
+$Module3/Week4/model/preprocessing.py,c\b\cbe6c0d3fab0cfd88958b6d5a7f9707646f39c89
+Q
+!Module3/Week4/dataset/Housing.csv,3\1\31c2e00585fb1650f8b12096f514d6ef79e2fc77
+R
+"Module3/Week4/model/tree_models.py,1\5\15d29f4a1b4db282a10d3b0c6e6b41079ebd2533
+Q
+!Module3/Week4/test/tree_models.py,9\8\98f4893ff2e6aab9de0333bc281c370fec3e6913
+V
+&Module3/Week4/test/tree_models_test.py,c\d\cdeab5363b8475ce73447d2b88900f8c99c2ec1e
