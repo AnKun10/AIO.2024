@@ -121,7 +121,13 @@ R
 "Module3/Week4/model/tree_models.py,1\5\15d29f4a1b4db282a10d3b0c6e6b41079ebd2533
 V
 &Module3/Week4/test/tree_models_test.py,c\d\cdeab5363b8475ce73447d2b88900f8c99c2ec1e
-S
-#Module3/Week3/model_test/xgboost.py,5\f\5fdcc5a6f5e0c56996f77f853824702f581c2403
 ^
 .Module3/Week3/model_test/xgboost_classifier.py,4\3\4336151dad0ae03689d7e6b23c5ebfd44cacf98a
+9
+	README.md,8\e\8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d
+W
+'Module4/Week2/model/LinearRegression.py,4\a\4a626c5ef06866971f178de9279e9f865a5d5b74
+U
+%Module4/Week3/dataset/advertising.csv,7\8\78d14a8b4c950c3576050b1f4344f995131fb3b0
+R
+"Module4/Week3/model/GeneticAlgo.py,8\4\84e0d8808c08e5cfa0eb49c6bcebd14932d8eec0
