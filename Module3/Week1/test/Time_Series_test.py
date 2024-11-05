@@ -5,7 +5,7 @@ import seaborn as sns
 
 path = '../dataset/opsd_germany_daily.csv'
 
-# Read data from .csv file
+# Read dataset from .csv file
 opsd_daily = pd.read_csv(path)
 
 print(opsd_daily.shape)
@@ -53,13 +53,13 @@ times_sample = pd.to_datetime(['2013-02-03', '2013-02-06', '2013-02-08'])
 # Select the specified dates and just the Consumption column
 consum_sample = opsd_daily.loc[times_sample, ['Consumption']].copy()
 print(consum_sample)
-# Convert the data to daily frequency , without filling any missings
+# Convert the dataset to daily frequency , without filling any missings
 consum_freq = consum_sample.asfreq('D')
 # Create a column with missings forward filled
 consum_freq['Consumption - Forward Fill'] = consum_sample.asfreq('D', method='ffill')
 print(consum_freq)
 
-# Specify the data columns we want to include (i.e. exclude Year , Month , Weekday Name)
+# Specify the dataset columns we want to include (i.e. exclude Year , Month , Weekday Name)
 data_columns = ['Consumption', 'Wind', 'Solar', 'Wind+Solar']
 # Resample to weekly frequency , aggregating with mean
 opsd_weekly_mean = opsd_daily[data_columns].resample('W').mean()
@@ -78,7 +78,7 @@ ax.legend()
 plt.show()
 
 # Compute the annual sums , setting the value to NaN for any year which has
-# fewer than 360 days of data
+# fewer than 360 days of dataset
 opsd_annual = opsd_daily[data_columns].resample('YE').sum(min_count=360)
 # The default index of the resampled DataFrame is the last day of each year ,
 # ( ’2006 -12 -31 ’ , ’2007 -12 -31 ’ , etc .) so to make life easier , set the index
@@ -89,7 +89,7 @@ opsd_annual.index.name = 'Year'
 opsd_annual['Wind+Solar/Consumption'] = opsd_annual['Wind+Solar'] / opsd_annual['Consumption']
 print(opsd_annual.tail(3))
 
-# Plot from 2012 onwards , because there is no solar production data in earlier years
+# Plot from 2012 onwards , because there is no solar production dataset in earlier years
 ax = opsd_annual.loc[2012:, 'Wind+Solar/Consumption'].plot.bar(color='C0')
 ax.set_ylabel('Fraction')
 ax.set_ylim(0, 0.3)
